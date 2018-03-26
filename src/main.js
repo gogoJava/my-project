@@ -17,7 +17,7 @@ export default {
       backgroundTextStyle: 'light',
       navigationBarBackgroundColor: '#fff',
       backgroundColor: '#eeeeee',
-      navigationBarTitleText: '仿IT之家',
+      navigationBarTitleText: '仿网易云音乐',
       navigationBarTextStyle: 'black'
     }
   }
