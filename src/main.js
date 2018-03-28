@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import App from './App'
+import '../static/weui/weui.css'
 
 Vue.config.productionTip = false
 App.mpType = 'app'
@@ -17,7 +18,7 @@ export default {
       backgroundTextStyle: 'light',
       navigationBarBackgroundColor: '#fff',
       backgroundColor: '#eeeeee',
-      navigationBarTitleText: '仿网易云音乐',
+      navigationBarTitleText: 'Demo',
       navigationBarTextStyle: 'black'
     }
   }
